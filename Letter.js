@@ -1,11 +1,13 @@
-function Letter(char) {
-   this.char = char;
-   if (char === " ") {
-      this.guessed = true; // no need to guess white space
+function Letter(char) { 
+    this.char = char;
+//    this.guessed = false;
+   if (char.toUpperCase() < "A" || char.toUpperCase() > "Z") {
+      this.guessed = true; 
    } else {
       this.guessed = false;
    }   
-   this.getResult = function () {
+//    this.getResult = function () {
+    this.toString = function () {
        if (this.guessed) {
         //    console.log(char);
         return char + " ";
@@ -17,7 +19,9 @@ function Letter(char) {
 
    this.guessOne = function (charGuess) {
        if (charGuess.toUpperCase() === this.char.toUpperCase()) {
-           this.guessed = true;
+          return  this.guessed = true;
+       } else {
+          return false; 
        }
    }
 }

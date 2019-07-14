@@ -1,0 +1,23 @@
+{
+  "name": "WordGuessing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonJPeng/WordGuessing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonJPeng/WordGuessing/issues"
+  },
+  "homepage": "https://github.com/JasonJPeng/WordGuessing#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
