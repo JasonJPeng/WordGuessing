@@ -15,19 +15,21 @@ function Word (word) {
 
     this.allDone = false;
 
-    // True for all letters are guessed true
-    // this.isCorrect = function () {
-    //     return this.arrLetters.reduce( (x,y) => (x.guessed===true && y.guessed===true));
-    // }
-    // this.allDone = this.arrLetters.reduce( (x,y) => (x.guessed===true && y.guessed===true));
-    
+    // allTrue -- T  Every letter is matche, including the passed record (Bingo Done!)
+    // allFalse -- F The current guess "c" is not matching with any of the letters (Wrong Guess)
     this.guessOne = function (c) {
         var allTrue = true;
+        var allFalse = false;
         for(var i =0; i< this.arrLetters.length; i++) {
-            this.arrLetters[i].guessOne(c);    
+            //check letter "c" against all letters
+            var x = this.arrLetters[i].guessOne(c);  
+            allFalse = allFalse || x ;
+
+            // check all letters' record
             allTrue = allTrue && this.arrLetters[i].guessed;        
         }  
-        this.allDone = allTrue;              
+        this.allDone = allTrue;       
+        return allFalse;       
     }
 }
 module.exports = Word;

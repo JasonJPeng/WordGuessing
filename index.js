@@ -25,16 +25,24 @@ function startGuessing() {
 function enterAChar () {
     inquirer.prompt([msgPrompt]).then( ans => {
        var ch = ans.char.charAt(0);
-       objWord.guessOne(ch);
+       if (objWord.guessOne(ch)) {
+           console.log( ch + " is a correct !")
+       } else {
+           console.log(ch + " is incorrect! You have " + (maxGuess - iGuess) + " more guesses.")
+       }
+       
        objWord.displayResult(); 
        if (!objWord.allDone) {
          if (iGuess < maxGuess) {
              iGuess++;
              enterAChar ();
+         } else {
+             console.log("G A M E   O V E R ! You completed " + gameNum - 1 + " games");
          }
         } else {
             console.log("Good Job !");
-            console.log("--------------------");
+            console.log("===========================");
+            console.log(`Starting game number ${gameNum+1} :`);
             startGuessing();
             enterAChar();
         }          
