@@ -27,7 +27,7 @@ function enterAChar () {
     inquirer.prompt([msgPrompt]).then( ans => {
        var ch = ans.char.charAt(0);
        if (objWord.guessOne(ch)) {
-           console.log(chalk.green( ch + " is a correct !"));
+           console.log(chalk.green( ch + " is correct !"));
        } else {
            console.log(chalk.yellow(ch + " is incorrect! You have " + (maxGuess - iGuess) + " more guesses."))
        }
