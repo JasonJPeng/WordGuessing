@@ -1,0 +1,88 @@
+'Me--Smith'   |  Caroline Lockhart   
+Alice's Adventures in Wonderland   |  Lewis Carroll   
+Pride and Prejudice   |  Jane Austen     
+A Casa dos Fantasmas  |  Luiz Augusto Rebello da Silva   
+Frankenstein; Or, The Modern Prometheus   |  Mary Wollstonecraft Shelley   
+Ehstnische Märchen   |  Friedrich Reinhold Kreutzwald   
+The Adventures of Sherlock Holmes   |  Arthur Conan Doyle    
+Adventures of Huckleberry Finn   |  Mark Twain   
+A Tale of Two Cities   |  Charles Dickens   
+Dracula   |  Bram Stoker   
+The Adventures of Tom Sawyer   |  Mark Twain   
+The Strange Case of Dr. Jekyll and Mr. Hyde   |  Robert Louis Stevenson   
+Peter Pan   |  J. M. Barrie      
+The Wonderful Wizard of Oz   |  L. Frank Baum   
+The Time Machine   |  H. G. Wells   
+Ulysses   |  James Joyce   
+Anna Karenina   |  Leo Tolstoy   
+Manifest der Kommunistischen Partei. English   |  Friedrich Engels and Karl Marx   
+A Christmas Carol in Prose; Being a Ghost Story of Christmas   |  Charles Dickens   
+The Willows   |  Algernon Blackwood   
+War and Peace   |  graf Leo Tolstoy   
+Moby Dick; Or, The Whale   |  Herman Melville   
+The Importance of Being Earnest: A Trivial Comedy for Serious People   |  Oscar Wilde   
+Narrative of the Life of Frederick Douglass, an American Slave   |  Frederick Douglass   
+Paradise Lost   |  John Milton   
+The Scarlet Letter   |  Nathaniel Hawthorne   
+The Picture of Dorian Gray   |  Oscar Wilde   
+Les Misérables   |  Victor Hugo   
+Through the Looking-Glass   |  Lewis Carroll   
+Paradise Lost   |  John Milton   
+Anne of Green Gables   |  L. M. Montgomery   
+The War of the Worlds   |  H. G. Wells   
+Emma   |  Jane Austen   
+The Count of Monte Cristo, Illustrated   |  Alexandre Dumas   
+The Declaration of Independence of the United States of America   |  Thomas Jefferson   
+The Legend of Sleepy Hollow   |  Washington Irving   
+Discours de la méthode. English   |  Rene Descartes   
+A Connecticut Yankee in King Arthur's Court   |  Mark Twain   
+The Strange Case of Dr. Jekyll and Mr. Hyde   |  Robert Louis Stevenson   
+Warlord of Mars   |  Edgar Rice Burroughs   
+Jane Eyre: An Autobiography   |  Charlotte Bronte  
+The Beasts of Tarzan   |  Edgar Rice Burroughs   
+Hamlet   |  William Shakespeare   
+The Yellow Wallpaper   |  Charlotte Perkins Gilman   
+Treasure Island   |  Robert Louis Stevenson   
+The Son of Tarzan   |  Edgar Rice Burroughs   
+Heart of Darkness   |  Joseph Conrad    
+Wuthering Heights   |  Emily Bronte   
+The Iliad   |  Homer   
+A Study in Scarlet   |  Arthur Conan Doyle   
+Mansfield Park   |  Jane Austen   
+Metamorphosis   |  Franz Kafka   
+Don Quixote   |  Miguel de Cervantes Saavedra   
+Little Women   |  Louisa May Alcott   
+The Hunting of the Snark: An Agony in Eight Fits   |  Lewis Carroll   
+Il Principe. English   |  Niccolo Machiavelli   
+Anne of Avonlea   |  L. M. Montgomery   
+Prestuplenie i nakazanie. English   |  Fyodor Dostoyevsky   
+Walden, and On The Duty Of Civil Disobedience   |  Henry David Thoreau   
+What Is Man? and Other Essays   |  Mark Twain   
+Great Expectations   |  Charles Dickens   
+On the Duty of Civil Disobedience   |  Henry David Thoreau     
+The Brothers Karamazov   |  Fyodor Dostoyevsky   
+Give Me Liberty or Give Me Death   |  Patrick Henry   
+Grimms' Fairy Tales   |  Jacob Grimm and Wilhelm Grimm   
+30 Strange Stories   |  H. G. Wells   
+Tractatus Logico-Philosophicus   |  Ludwig Wittgenstein    
+The Kama Sutra of Vatsyayana   |  Vatsyayana   
+A Princess of Mars   |  Edgar Rice Burroughs   
+Et dukkehjem. English   |  Henrik Ibsen   
+The Secret Garden   |  Frances Hodgson Burnett   
+The Return of Tarzan   |  Edgar Rice Burroughs   
+Around the World in Eighty Days   |  Jules Verne   
+Vingt ans après. English   |  Alexandre Dumas   
+Aesop's Fables   |  Aesop     
+The Life and Adventures of Robinson Crusoe   |  Daniel Defoe   
+Sense and Sensibility   |  Jane Austen   
+Zen and the Art of the Internet   |  Brendan P. Kehoe   
+The Scarlet Pimpernel   |  Baroness Emmuska Orczy Orczy      
+Gulliver's Travels into Several Remote Nations of the World   |  Jonathan Swift   
+Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone   |  Sophocles   
+Thuvia, Maid of Mars   |  Edgar Rice Burroughs   
+Persuasion   |  Jane Austen   
+Meditations   |  Marcus Aurelius   
+Herland   |  Charlotte Perkins Gilman   
+Anne of the Island   |  L. M. Montgomery   
+The Prophet   |  Kahlil Gibran   
+Calculus Made Easy   |  Silvanus P. Thompson   

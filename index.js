@@ -14,7 +14,7 @@ function getRandomInt(max) {
 function startGuessing() {
    var i = getRandomInt(arrPrompts.length);
    targetWord = arrPrompts[i].a;  
-   maxGuess = targetWord.length*2;
+   maxGuess = 15;
    iGuess = 0;
    objWord = new Word(targetWord);
    msgPrompt = {type:"input", name: "char", message: arrPrompts[i].q};

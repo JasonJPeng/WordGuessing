@@ -1,9 +1,6 @@
-'Me--Smith'   |  Caroline Lockhart   
 Alice's Adventures in Wonderland   |  Lewis Carroll   
-Pride and Prejudice   |  Jane Austen     
-A Casa dos Fantasmas  |  Luiz Augusto Rebello da Silva   
-Frankenstein; Or, The Modern Prometheus   |  Mary Wollstonecraft Shelley   
-Ehstnische Märchen   |  Friedrich Reinhold Kreutzwald   
+Pride and Prejudice   |  Jane Austen        
+Frankenstein; Or, The Modern Prometheus   |  Mary Shelley      
 The Adventures of Sherlock Holmes   |  Arthur Conan Doyle    
 Adventures of Huckleberry Finn   |  Mark Twain   
 A Tale of Two Cities   |  Charles Dickens   
@@ -14,11 +11,10 @@ Peter Pan   |  J. M. Barrie
 The Wonderful Wizard of Oz   |  L. Frank Baum   
 The Time Machine   |  H. G. Wells   
 Ulysses   |  James Joyce   
-Anna Karenina   |  Leo Tolstoy   
-Manifest der Kommunistischen Partei. English   |  Friedrich Engels and Karl Marx   
+Anna Karenina   |  Leo Tolstoy      
 A Christmas Carol in Prose; Being a Ghost Story of Christmas   |  Charles Dickens   
 The Willows   |  Algernon Blackwood   
-War and Peace   |  graf Leo Tolstoy   
+War and Peace   |  Leo Tolstoy   
 Moby Dick; Or, The Whale   |  Herman Melville   
 The Importance of Being Earnest: A Trivial Comedy for Serious People   |  Oscar Wilde   
 Narrative of the Life of Frederick Douglass, an American Slave   |  Frederick Douglass   
@@ -31,8 +27,7 @@ Paradise Lost   |  John Milton
 Anne of Green Gables   |  L. M. Montgomery   
 The War of the Worlds   |  H. G. Wells   
 Emma   |  Jane Austen   
-The Count of Monte Cristo, Illustrated   |  Alexandre Dumas   
-The Declaration of Independence of the United States of America   |  Thomas Jefferson   
+The Count of Monte Cristo, Illustrated   |  Alexandre Dumas      
 The Legend of Sleepy Hollow   |  Washington Irving   
 Discours de la méthode. English   |  Rene Descartes   
 A Connecticut Yankee in King Arthur's Court   |  Mark Twain   
@@ -61,8 +56,7 @@ What Is Man? and Other Essays   |  Mark Twain
 Great Expectations   |  Charles Dickens   
 On the Duty of Civil Disobedience   |  Henry David Thoreau     
 The Brothers Karamazov   |  Fyodor Dostoyevsky   
-Give Me Liberty or Give Me Death   |  Patrick Henry   
-Grimms' Fairy Tales   |  Jacob Grimm and Wilhelm Grimm   
+Give Me Liberty or Give Me Death   |  Patrick Henry      
 30 Strange Stories   |  H. G. Wells   
 Tractatus Logico-Philosophicus   |  Ludwig Wittgenstein    
 The Kama Sutra of Vatsyayana   |  Vatsyayana   
