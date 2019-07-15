@@ -1,3 +1,5 @@
 # WordGuessing - NODE.JS
 
-![demo](./source/demo.gif)
+
+![demo](./source/WordGuess.gif)
+
