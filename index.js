@@ -1,12 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+const chalk = require('chalk');
 const Word = require("./Word.js");
-
-// var arrPrompts = [
-//     {"q": "What's my name ?", "a": "Jason Peng" },
-//     {"q": "Who is my father? ", "a": "J. W. Peng"},
-//     {"q": "Who is our President? ", "a": "Donald Trump"}    
-// ]
 
 var arrPrompts = [];
 var maxGuess, iGuess, msgPrompt, objWord, targetWord;
@@ -32,9 +27,9 @@ function enterAChar () {
     inquirer.prompt([msgPrompt]).then( ans => {
        var ch = ans.char.charAt(0);
        if (objWord.guessOne(ch)) {
-           console.log( ch + " is a correct !")
+           console.log(chalk.green( ch + " is a correct !"));
        } else {
-           console.log(ch + " is incorrect! You have " + (maxGuess - iGuess) + " more guesses.")
+           console.log(chalk.yellow(ch + " is incorrect! You have " + (maxGuess - iGuess) + " more guesses."))
        }
        
        objWord.displayResult(); 
@@ -44,11 +39,11 @@ function enterAChar () {
              enterAChar ();
          } else {
              console.log("The correct answer is ", targetWord);
-             console.log("G A M E   O V E R ! You completed " + gameNum - 1 + " games");
+             console.log(chalk.red.bold("G A M E   O V E R ! You completed " + (gameNum - 1) + " games"));
          }
         } else {
-            console.log("Good Job !");
-            console.log("===========================");
+            console.log(chalk.green.bold("Good Job !"));
+            console.log(chalk.cyan("\n====================================\n"));
             console.log(`Starting game number ${gameNum+1} :`);
             startGuessing();
             enterAChar();
