@@ -21,6 +21,7 @@ Defining two constructors significantly reduces many lines of codes.
 1. ````Letter```` is designed to check the correctness of each letter of a word. 
 2. ````Word```` is designed to instantiate ````Letter```` for each of its letters.
 3. We also redefine the internal function ````toString()```` in the ````Letter```` construction to convert elements into a string based on the Word Guessing ri=ule, which make "_" for the letter not guessed.
+4. ````chalk```` module is used in this program to enhance the visual effects. 
 
 
 
